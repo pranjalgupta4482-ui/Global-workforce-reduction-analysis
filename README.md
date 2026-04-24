@@ -16,15 +16,6 @@ The goal is to identify patterns in layoffs, understand driving factors, and vis
 
 ---
 
-## 📂 Project Structure
-
-* **data/** → Raw and cleaned datasets
-* **python/** → Data cleaning and analysis notebooks
-* **tableau/** → Tableau dashboard file
-* **images/** → Dashboard screenshots
-
----
-
 ## 📈 Key Insights
 
 * Layoffs peaked in 2023, reflecting post-pandemic workforce corrections
